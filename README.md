@@ -52,7 +52,7 @@ Criar um front-end para uma aplicação web responsiva que permita à populaçã
 <br><br>
 
 ## Prototipação
-O protótipo foi desenvolvido através do 
+O protótipo foi desenvolvido através do Canvas.
 <br>
 As três primeiras telas escolhidas para prototipação foram: 
 - Página de cadastrar (cadastro.jsx)
